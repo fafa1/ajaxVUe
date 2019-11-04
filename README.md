@@ -1,6 +1,6 @@
 # ajaxvue
 
-> requisição ajax com vuex
+> Requisição ajax com vuex
 
 ## Build Setup
 
